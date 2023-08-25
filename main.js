@@ -16,5 +16,3 @@ window.scrollTo({
     behavior: 'smooth'
   });
 });
-
-
